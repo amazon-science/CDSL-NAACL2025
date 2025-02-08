@@ -1,11 +1,21 @@
-## My Project
+## CDSL
 
-TODO: Fill this README out!
+This repository will contain the official implementation of the NAACL'2025 paper [Constrained Decoding with Speculative Lookaheads](https://arxiv.org/pdf/2412.10418)
 
-Be sure to:
+## Repo
 
-* Change the title in this README
-* Edit your repository description on GitHub
+The repo is currently under construction and the codebase will be uploaded soon.
+
+## Citation
+
+<pre><code>
+@article{nakshatri2024constrained,
+  title={Constrained Decoding with Speculative Lookaheads},
+  author={Nakshatri, Nishanth and Roy, Shamik and Das, Rajarshi and Chaidaroon, Suthee and Boytsov, Leonid and Gangadharaiah, Rashmi},
+  journal={arXiv preprint arXiv:2412.10418},
+  year={2024}
+}
+</code></pre>
 
 ## Security
 
